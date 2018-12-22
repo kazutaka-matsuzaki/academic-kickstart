@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://matsuzaki.institute/"
 
 # Title of your site
 title = "Academic"
@@ -373,3 +373,5 @@ enableGitInfo = false
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+hasCJKLanguage = "true"
